@@ -1,4 +1,4 @@
-package solvedac_class3;
+package practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
